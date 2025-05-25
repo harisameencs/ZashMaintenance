@@ -115,7 +115,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <Phone size={18} className="mr-3 text-blue-400" />
-                <span className="text-gray-400">+44 123 456 7890</span>
+                <span className="text-gray-400">+44 7454 392199</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-3 text-blue-400" />
@@ -125,14 +125,12 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-start">
                 <MapPin size={18} className="mr-3 text-blue-400 mt-1" />
-                <span className="text-gray-400">123 Maintenance Street, London, UK</span>
+                <span className="text-gray-400">Flat, White Lion Church Road, Yate, Bristol, England, BS37 5BG</span>
               </li>
               <li className="flex items-start">
                 <Clock size={18} className="mr-3 text-blue-400 mt-1" />
                 <div className="text-gray-400">
-                  <p>Mon-Fri: 8:00 AM - 6:00 PM</p>
-                  <p>Sat: 9:00 AM - 4:00 PM</p>
-                  <p>Sun: Closed (Emergency Only)</p>
+                  <p>Open 24/7</p>
                 </div>
               </li>
             </ul>
